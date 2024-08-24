@@ -7,7 +7,7 @@
 - **Telefone:** (47) 991058449
 - **E-mail:** rodolfo_rbm@outlook.com
 - **LinkedIn:** linkedin.com/in/rodolfoborgesmoraes
-- **GitHub:** github.com/rodolfo-rbm
+- **GitHub:** github.com/rodolforbm
 
 ## Objetivo
 Busco uma oportunidade como Desenvolvedor, Analista de sistemas ou Analista de Suporte. Tenho experiência em Linguagem C, conhecimento em Python e banco de dados SQL.
@@ -18,8 +18,8 @@ Busco uma oportunidade como Desenvolvedor, Analista de sistemas ou Analista de S
 - **Graduação em Segurança da Informação** – Fatec Ourinhos (2009 a 2012, trancado)
 
 ## Experiência
-### Randstad Brasil
-- **Cargo:** Analista de Suporte Computacional
+### Pollux, Part of Accenture
+- **Cargo:** Analista de Suporte de TI
 - **Período:** 09/2022 até o momento
 - **Atividades:**
   - Atuar com escalonamentos e prioridades de atendimentos (incluindo hands-on via suporte remoto/presencial) tendo contato direto com executivos e liderança.
